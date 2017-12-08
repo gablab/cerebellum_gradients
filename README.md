@@ -1,5 +1,5 @@
 # cerebellum_gradients
-This is a github repository for the cerebellum gradients project. Read our paper here: (not yet available)
+This is a github repository for the cerebellum gradients project. Read our paper here: (not yet available).
 Final gradient files that can be used when interpreting cerebellar clusters are found in the folder "FINAL_GRADIENTS" in this repository.
 
 Using the code provided in this repository requires the following files in addition to the files provided in this repository:
